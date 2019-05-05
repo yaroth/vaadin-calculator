@@ -6,6 +6,7 @@
 .idea/*.xml
 **.iml
 out/
+target/
 
 # eclipse
 .classpath
